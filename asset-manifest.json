@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/raniawho/static/css/main.bd3dd015.css",
+    "main.js": "/raniawho/static/js/main.72387d1b.js",
+    "static/media/photo.png": "/raniawho/static/media/photo.faf1a4c517fb7e2ae04f.png",
+    "index.html": "/raniawho/index.html",
+    "main.bd3dd015.css.map": "/raniawho/static/css/main.bd3dd015.css.map",
+    "main.72387d1b.js.map": "/raniawho/static/js/main.72387d1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3dd015.css",
+    "static/js/main.72387d1b.js"
+  ]
+}
