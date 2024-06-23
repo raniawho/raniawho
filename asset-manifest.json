@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/raniawho/static/css/main.bd3dd015.css",
-    "main.js": "/raniawho/static/js/main.04ab3288.js",
+    "main.js": "/raniawho/static/js/main.d870e951.js",
     "static/media/photo.png": "/raniawho/static/media/photo.faf1a4c517fb7e2ae04f.png",
+    "static/media/cv.pdf": "/raniawho/static/media/cv.ddbb226b42c20a8b5fa6.pdf",
     "index.html": "/raniawho/index.html",
     "main.bd3dd015.css.map": "/raniawho/static/css/main.bd3dd015.css.map",
-    "main.04ab3288.js.map": "/raniawho/static/js/main.04ab3288.js.map"
+    "main.d870e951.js.map": "/raniawho/static/js/main.d870e951.js.map"
   },
   "entrypoints": [
     "static/css/main.bd3dd015.css",
-    "static/js/main.04ab3288.js"
+    "static/js/main.d870e951.js"
   ]
 }
